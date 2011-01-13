@@ -13,7 +13,7 @@ functions to run our KNN simulation to evaluate the GCV score as a bandwidth sel
 \tabular{ll}{
 Package: \tab knn\cr
 Type: \tab Package\cr
-Version: \tab 1.1\cr
+Version: \tab 1.0\cr
 Date: \tab 2011-01-12\cr
 License: \tab What license is it under?\cr
 LazyLoad: \tab yes\cr
