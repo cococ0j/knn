@@ -1,0 +1,11 @@
+Package: knn
+Type: Package
+Title: knn-gcv
+Version: 1.1
+Date: 2011-01-12
+Author: Ernest Liu, Daisy Sun, Aaron Swoboda.
+Maintainer: <sund@carleton.edu>
+Description: See readme
+License: Freeware
+LazyLoad: yes
+Packaged: 2011-01-13 04:33:09 UTC; ernestliu
